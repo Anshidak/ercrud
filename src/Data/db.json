@@ -1,0 +1,26 @@
+{
+  "user": [
+    {
+      "id": "85f9",
+      "name": "arun",
+      "dname": "jithin",
+      "mrno": "9009990`",
+      "status": "Not Admitted",
+      "bed": "123",
+      "refdr": "madhav",
+      "refhos": "karnan",
+      "date": "20.3.2001"
+    },
+    {
+      "id": "f5e0",
+      "name": "eee",
+      "dname": "eee",
+      "mrno": "eee",
+      "status": "Admitted",
+      "bed": "eee",
+      "refdr": "eee",
+      "refhos": "eee",
+      "date": "ee"
+    }
+  ]
+}
